@@ -1,0 +1,1 @@
+web: gunicorn hel_ncyu.wsgi
